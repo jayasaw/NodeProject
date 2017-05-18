@@ -1,0 +1,22 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "my first node project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayasaw/NodeProject.git"
+  },
+  "author": "Jaya Saw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayasaw/NodeProject/issues"
+  },
+  "homepage": "https://github.com/jayasaw/NodeProject#readme",
+  "devDependencies": {
+    "cross-env": "^5.0.0"
+  }
+}
